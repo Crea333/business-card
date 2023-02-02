@@ -1,0 +1,20 @@
+body{
+    margin:20px;
+    font-family:Arial;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card{
+    width: 400px;
+    display:flex;
+    justify-content: space-around;
+    background-color: #e0b1cb;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 4px;
+    border-bottom: 6px solid #be95c4;
+}
